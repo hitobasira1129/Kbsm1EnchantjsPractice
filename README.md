@@ -1,4 +1,5 @@
-kbsm1_enchantjs_Practice
+shooting
 ========================
 
-Template!
+横スクロールシューティング
+
